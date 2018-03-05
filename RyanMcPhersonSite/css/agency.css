@@ -701,3 +701,22 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   min-width: 40px;
   min-height: 40px;
 }
+
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.techImage {
+  height: 120px;
+  width: 120px;
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
